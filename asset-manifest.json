@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/DipsonPortfolio/static/css/main.c72f6280.css",
+    "main.js": "/DipsonPortfolio/static/js/main.f421b29f.js",
+    "static/js/453.11d27d3d.chunk.js": "/DipsonPortfolio/static/js/453.11d27d3d.chunk.js",
+    "static/media/uarziona.png": "/DipsonPortfolio/static/media/uarziona.763bea6b382585fc9654.png",
+    "static/media/comingSoon.png": "/DipsonPortfolio/static/media/comingSoon.290a6d49aa4296bddc1e.png",
+    "static/media/calApp.png": "/DipsonPortfolio/static/media/calApp.a4c024c477b7fd6ff362.png",
+    "index.html": "/DipsonPortfolio/index.html",
+    "main.c72f6280.css.map": "/DipsonPortfolio/static/css/main.c72f6280.css.map",
+    "main.f421b29f.js.map": "/DipsonPortfolio/static/js/main.f421b29f.js.map",
+    "453.11d27d3d.chunk.js.map": "/DipsonPortfolio/static/js/453.11d27d3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72f6280.css",
+    "static/js/main.f421b29f.js"
+  ]
+}
