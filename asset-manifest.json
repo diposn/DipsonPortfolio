@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/DipsonPortfolio/static/css/main.57c9d1ce.css",
-    "main.js": "/DipsonPortfolio/static/js/main.55a015d7.js",
+    "main.css": "/DipsonPortfolio/static/css/main.9a7d843d.css",
+    "main.js": "/DipsonPortfolio/static/js/main.7bf52a93.js",
     "static/js/453.11d27d3d.chunk.js": "/DipsonPortfolio/static/js/453.11d27d3d.chunk.js",
     "static/media/uarziona.png": "/DipsonPortfolio/static/media/uarziona.763bea6b382585fc9654.png",
     "static/media/noteTaker.png": "/DipsonPortfolio/static/media/noteTaker.46a734957fd006ea9ae9.png",
     "static/media/comingSoon.png": "/DipsonPortfolio/static/media/comingSoon.290a6d49aa4296bddc1e.png",
     "static/media/calApp.png": "/DipsonPortfolio/static/media/calApp.1f292f6cab39e906692c.png",
-    "static/media/resume_KCdipson.pdf": "/DipsonPortfolio/static/media/resume_KCdipson.a654a6d4d622df01aec8.pdf",
     "index.html": "/DipsonPortfolio/index.html",
-    "main.57c9d1ce.css.map": "/DipsonPortfolio/static/css/main.57c9d1ce.css.map",
-    "main.55a015d7.js.map": "/DipsonPortfolio/static/js/main.55a015d7.js.map",
+    "main.9a7d843d.css.map": "/DipsonPortfolio/static/css/main.9a7d843d.css.map",
+    "main.7bf52a93.js.map": "/DipsonPortfolio/static/js/main.7bf52a93.js.map",
     "453.11d27d3d.chunk.js.map": "/DipsonPortfolio/static/js/453.11d27d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57c9d1ce.css",
-    "static/js/main.55a015d7.js"
+    "static/css/main.9a7d843d.css",
+    "static/js/main.7bf52a93.js"
   ]
 }
